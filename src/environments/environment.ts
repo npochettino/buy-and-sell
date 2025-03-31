@@ -1,7 +1,6 @@
 export const environment = {
     production: false,
     firebaseConfig: {
-        apiKey: "AIzaSyAa4JuyCorUC4t2QRSChhn_7k_9hxW5bYE",
         authDomain: "buy-and-sell-f5bfa.firebaseapp.com",
         projectId: "buy-and-sell-f5bfa",
         storageBucket: "buy-and-sell-f5bfa.firebasestorage.app",
